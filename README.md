@@ -9,10 +9,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 <!-- Backend -->
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
 <!-- Database -->
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
 <!-- Infrastructure & Cloud -->
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![NHN Cloud](https://img.shields.io/badge/-NHN%20Cloud-003569?style=flat-square&logo=icloud&logoColor=white)
