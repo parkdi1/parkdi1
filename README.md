@@ -17,10 +17,6 @@
 ### 📊 GitHub 통계
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=parkdi1&show_icons=true&theme=radical)
 
-### 📫 연락처
-- 이메일: parkdi1@naver.com
-- 블로그: [블로그 주소]
-
 
 ### 🎯 2025년 목표
 - 기술 블로그 작성 주 1회
